@@ -1,0 +1,47 @@
+id: 0
+name: 아바타 상점메뉴
+options:
+  - id: 1
+    name: 🎨 외형
+    options:
+      - id: 10
+        name: 헤어
+      - id: 11
+        name: 성형
+      - id: 12
+        name: 피부
+  - id: 2
+    name: 👗 장식
+    options:
+      - id: 20
+        name: 모자
+      - id: 21
+        name: 얼굴장식
+      - id: 22
+        name: 눈장식
+      - id: 23
+        name: 귀고리
+      - id: 24
+        name: 망토
+  - id: 3
+    name: 👚 의상
+    options:
+      - id: 30
+        name: 한벌옷
+      - id: 31
+        name: 상의
+      - id: 32
+        name: 하의
+      - id: 33
+        name: 신발
+      - id: 34
+        name: 장갑
+  - id: 4
+    name: ⚔ 장비
+    options:
+      - id: 40
+        name: 무기
+      - id: 41
+        name: 방패
+  - id: 5
+    name: 초기화
