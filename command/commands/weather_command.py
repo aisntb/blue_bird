@@ -36,14 +36,13 @@ class WeatherCommand:
 
     def handle(self, event:ChatContext, kl):
         wheather = get_weather()['RESULT']['WEATHER_BALLOON']['result']
-        print(wheather)
-        # event.reply("날씨검색중입니다.")
         kl.send(
-            receiver_name=event.room.name,
-            template_id=115564,
-            template_args={
-                "THU":wheather
-            },
-        )
+                receiver_name=event.room.name,
+                template_id=15476,
+                template_args={
+                    "${TH_IMAGE_URL_0}": wheather
+                },
+            )
+        
 
 
