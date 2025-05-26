@@ -1,11 +1,5 @@
-import google.generativeai as genai
-
-GOOGLE_API_KEY = "AIzaSyCiyzVA1I7lcM-NTFDcxaxQfUrIZwmD5NM"
-genai.configure(api_key=GOOGLE_API_KEY)
-model = genai.GenerativeModel('gemini-2.0-flash')
-chat = model.start_chat(history=[])
-MAX_HISTORY = 50
-
+from google import genai
+client = genai.Client(api_key="AIzaSyCiyzVA1I7lcM-NTFDcxaxQfUrIZwmD5NM")
 from iris import ChatContext
 
 class AiCommand:
@@ -15,12 +9,10 @@ class AiCommand:
 
     def handle(self, event:ChatContext):
         content = event.message.msg[len(">먀 "):].strip()
-        response = chat.send_message(content)
+        response = client.models.generate_content(
+            model='gemini-2.0-flash',
+            contents=content
+        )
         event.reply(response.text)
-
-
-        if len(chat.history) > MAX_HISTORY:
-            chat.history = chat.history[-MAX_HISTORY:]
-            print(chat.history)
 
 
