@@ -1,7 +1,7 @@
 from iris import ChatContext
 import requests
 
-def get_weather():
+def get_weather(region: str):
     session = requests.Session()
 
     # 1단계: 첫 요청 (예: 다음 모바일 날씨 검색)
@@ -10,7 +10,7 @@ def get_weather():
         'nil_profile': 'btn',
         'w': 'tot',
         'DA': 'SBC',
-        'q': '날씨 서울'
+        'q': '날씨 '+region,
     }
     headers = {
         'User-Agent': 'Mozilla/5.0',
@@ -28,12 +28,13 @@ def get_weather():
 
 class WeatherCommand:
     invoke = "날씨"
-    help = "!날씨 <지역>"
+    help = ">날씨 <지역>"
     type = "kl"
 
     def handle(self, event:ChatContext, kl):
-        weather = get_weather()['RESULT']['WEATHER_BALLOON']['result']
-        # event.reply("날씨검색중입니다.")
+        region = event.message.msg[len(">날씨 "):].strip()
+        weather = get_weather(region)['RESULT']['WEATHER_BALLOON']['result']
+
         kl.send(
             receiver_name=event.room.name,
             template_id=15476,

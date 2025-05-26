@@ -10,36 +10,17 @@ from PIL import Image
 
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
-def get_store(type_name:str, page:int, sess):
+def get_store(type_name: str, page: int, sess):
     data_file = os.path.join(BASE_DIR, "assets", "avatar_data", f"{type_name}.json")
     with open(data_file, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    items = data["itemList"][:35]
+    limit = 40
+    offset = (page - 1) * limit
+    items = data["itemList"][offset:offset + limit]
+    sess["type"] = items
 
-    canvas = Image.new("RGBA", (256,256), (255, 255, 255, 255))
-    row = 7
 
-    for idx, item in enumerate(items):
-        code = item["code"]
-        code_str = f"{code:08d}"
-        image_path = os.path.join(BASE_DIR, "assets", "avatar", type_name, f"{code_str}.png")
-
-        if os.path.exists(image_path):
-            img = Image.open(image_path).convert("RGBA")
-
-            # 흰 배경 캔버스 생성 (이미지 크기 맞춰서)
-            canvas.paste(img, (idx%7*35 + 5, idx//7*50 +10), img)
-
-        else:
-            print(f"이미지 없음: {image_path}")
-    resized_img = canvas.resize((384, 384), Image.LANCZOS)
-    sess.shop_stack.append({
-        'data': items
-    })
-    sess.shop_cursor = 0
-    sess.mode = "shop"
-    return resized_img
 
 def get_avatar(inventory):
     # POST 보낼 URL

@@ -9,6 +9,8 @@ manager = CommandManager()
 
 @bot.on_event("message")
 def on_message(chat: ChatContext):
+    if chat.message.msg == "!와":
+        chat.reply("sanss")
     manager.handle_command(chat,kl)
 
 @bot.on_event("error")

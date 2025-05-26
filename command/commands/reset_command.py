@@ -5,15 +5,14 @@ from utils.spotify import search_track
 from utils.store_gui import get_avatar, get_avatar_img
 
 
-class AvatarCommand:
-    invoke = "아바타"
-    help = "아바타를 불러옵니다."
+class ResetCommand:
+    invoke = "초기화"
+    help = "아바타 착장을 초기화합니다."
     type = "kl"
 
     def handle(self, event:ChatContext, kl):
         user_id = str(event.sender.id)
-        if user_id not in inventory:
-            inventory[user_id] = {}
+        reset_inventory(user_id)
         code = get_avatar(inventory[user_id])
         img = get_avatar_img(code)
         kl.send(

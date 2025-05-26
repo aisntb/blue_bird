@@ -1,0 +1,7569 @@
+{
+  "itemList": [
+    {
+      "name": "가디언 세라핌 페더",
+      "code": 1103733,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1
+    },
+    {
+      "name": "메르헨 캐슬",
+      "code": 1103655,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "37, 97",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "영혼의 지평선",
+      "code": 1103557,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "153, 174",
+        "fixed": 0,
+        "z": -3
+      }
+    },
+    {
+      "name": "악몽 경계",
+      "code": 1103459,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "58, 116",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "영원 궤도",
+      "code": 1103357,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "62, 43",
+        "fixed": 0,
+        "z": 2
+      }
+    },
+    {
+      "name": "이스케이프 키",
+      "code": 1103301,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "8, 111",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "빛의 가호",
+      "code": 1103241,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "34, 53",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "운명의 굴레",
+      "code": 1103187,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "35, 70",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "안개 환상곡",
+      "code": 1103127,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "48, 148",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "안개 야상곡",
+      "code": 1103126,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "48, 158",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "붉은 각인",
+      "code": 1103053,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "19, 75",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "고운 속삭임",
+      "code": 1102988,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "55, 75",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "알리샤의 꽃날개",
+      "code": 1102932,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "87, 96",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "영원의 시계태엽",
+      "code": 1102858,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "48, 113",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "데스 왈츠",
+      "code": 1102809,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "80, 30",
+        "fixed": 0,
+        "pos": 1,
+        "z": -1
+      }
+    },
+    {
+      "name": "넘실 초롱",
+      "code": 1102729,
+      "slot": "망토",
+      "cash": 1,
+      "ms": 1,
+      "effect": {
+        "vector": "38, 35",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "스플래시 슬링백",
+      "code": 1103881,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "포실 반디",
+      "code": 1103870,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "레드 스피릿",
+      "code": 1103860,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "-13, 63",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "백곰 봐주세요",
+      "code": 1103849,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "79, 100",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "짤랑짤랑 스타",
+      "code": 1103823,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "68, 71",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "동동 스노우 쿠키",
+      "code": 1103812,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "56, 64",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "매달린 절망",
+      "code": 1103792,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "빛바랜 절망",
+      "code": 1103791,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "드림 밀키웨이",
+      "code": 1103772,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "71, 100",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "흰 모래토끼 탐사 배낭",
+      "code": 1103756,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "갈색 모래토끼 탐사 배낭",
+      "code": 1103755,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "블링 베어 버블",
+      "code": 1103748,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "91, 73",
+        "fixed": 0,
+        "pos": 1,
+        "z": 2
+      }
+    },
+    {
+      "name": "러블리 익스플로러",
+      "code": 1103736,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "스포티 익스플로러",
+      "code": 1103735,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "매직 쇼타임",
+      "code": 1103730,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "54, 108",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "봄의 마음",
+      "code": 1103716,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "57, 77",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "마지막 심판",
+      "code": 1103707,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "55, 79",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "알록달록 컨페티",
+      "code": 1103693,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "51, 108",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "슝슝 롤러코스터",
+      "code": 1103685,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "50, 51",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "아이스 스노우보드",
+      "code": 1103680,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "하이퍼 스페이스",
+      "code": 1103672,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "32, 78",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "프라이빗 무드",
+      "code": 1103664,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "69, 41",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "물든 가을",
+      "code": 1103653,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "70, 3",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "꿈의 콘서트",
+      "code": 1103630,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "51, 31",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "깜이 가방",
+      "code": 1103616,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "러버블 메모리",
+      "code": 1103608,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "-17, 46",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "천공의 빛",
+      "code": 1103594,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "88, 120",
+        "fixed": 0,
+        "pos": 0,
+        "z": -3
+      }
+    },
+    {
+      "name": "빛의 아뜰리에",
+      "code": 1103590,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "23, 97",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "트윈테니 벌룬",
+      "code": 1103580,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "쿠키 베이비",
+      "code": 1103575,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "아이스 크리스탈",
+      "code": 1103567,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "98, 132",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "크앙 탐험상자",
+      "code": 1103556,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "반짝 별자리",
+      "code": 1103544,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "79, 75",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "은하 음악회",
+      "code": 1103522,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "67, 106",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "스파이럴 플라이",
+      "code": 1103521,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "8, 50",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "은빛 울림",
+      "code": 1103502,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "45, 82",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "황금빛 기억",
+      "code": 1103491,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "69, 144",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "파핑 스타",
+      "code": 1103482,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "18, 51",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "꽃잎 폭포",
+      "code": 1103469,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "64, 120",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "파도 울림",
+      "code": 1103454,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "58, 99",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "깡총 설렘",
+      "code": 1103450,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "50, 50",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "결계의 파동",
+      "code": 1103438,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "64, 43",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "머무는 향기",
+      "code": 1103425,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "46, 103",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "눈꽃보송 다람꼬리",
+      "code": 1103411,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "신비한 마을",
+      "code": 1103401,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "68, 134",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "장난감 키링",
+      "code": 1103379,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "-2, 63",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "해바라기 꽃비",
+      "code": 1103375,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "95, 106",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "블루밍 버블",
+      "code": 1103359,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "61, 95",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "푸른 별자리",
+      "code": 1103351,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "36, 154",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "퓨어 딜라이트",
+      "code": 1103345,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "81, 127",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "블랙캣 크로스백",
+      "code": 1103336,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "환상 태엽",
+      "code": 1103330,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "65, 156",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "이슬샘 요정",
+      "code": 1103328,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "서고의 부름",
+      "code": 1103319,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "65, 142",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "실버 드림",
+      "code": 1103314,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "58, 42",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "따스한 설렘",
+      "code": 1103306,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "46, 23",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "테일러의 보물",
+      "code": 1103300,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "비밀의 안개",
+      "code": 1103293,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "62, 36",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "화려한 조명",
+      "code": 1103287,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "67, 113",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "은하수의 밤",
+      "code": 1103280,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "52, 57",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "유영하는 빛",
+      "code": 1103266,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "63, 90",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "쏟아지는 햇살",
+      "code": 1103262,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "56, 93",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "영예의 옷자락",
+      "code": 1103256,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "햇살 여우 꼬리",
+      "code": 1103250,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "꽃 그림자",
+      "code": 1103249,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "56, 104",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "푸른 물결",
+      "code": 1103243,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "42, 16",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "타임 아웃",
+      "code": 1103235,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "29, 125",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "플레임 서클",
+      "code": 1103232,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "51, 132",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "음악대 친구들",
+      "code": 1103224,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "-22, 34",
+        "fixed": 0,
+        "z": 1
+      }
+    },
+    {
+      "name": "스파클링 밀키웨이",
+      "code": 1103221,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "82, 147",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "수호 날개",
+      "code": 1103219,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "47, 1",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "꽃구름 선율",
+      "code": 1103212,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "88, 23",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "써니 오션",
+      "code": 1103202,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "70, 10",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "꽃비",
+      "code": 1103185,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "59, -5",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "사나운 악마 날개",
+      "code": 1103177,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "22, -14",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "신속 쁘띠 윙",
+      "code": 1103175,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "37, -4",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "라벤더 멜로디",
+      "code": 1103171,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "52, -14",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "타고난 품격",
+      "code": 1103157,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "66, 61",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "달달 눈송이",
+      "code": 1103152,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "41, -17",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "영원사령",
+      "code": 1103148,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "93, 121",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "등화연가",
+      "code": 1103144,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "50, 126",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "해답의 열쇠",
+      "code": 1103138,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "46, 42",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "샤이닝데이",
+      "code": 1103130,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "42, 136",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "향긋한 아침",
+      "code": 1103118,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "75, 114",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "태엽 날개",
+      "code": 1103114,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "코튼캔디 윙즈",
+      "code": 1103101,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "59, 26",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "크림퐁당 다람꼬리",
+      "code": 1103096,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "꽃밭에는 꽃들이",
+      "code": 1103094,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "39, 15",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "매화 향낭",
+      "code": 1103079,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "74, 40",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "첫눈 오는 날",
+      "code": 1103074,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "54, 122",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "포근 퐁퐁",
+      "code": 1103072,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "59, 6",
+        "fixed": 0,
+        "pos": 1,
+        "z": 1
+      }
+    },
+    {
+      "name": "꿈의 속박",
+      "code": 1103067,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "마법 악장",
+      "code": 1103055,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "96, 151",
+        "fixed": 0,
+        "z": -3
+      }
+    },
+    {
+      "name": "금빛 울림",
+      "code": 1103050,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "78, 68",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "소풍 가는 날",
+      "code": 1103035,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "36, -9",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "방울방울",
+      "code": 1103029,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "54, 78",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "꿈의 가지",
+      "code": 1103023,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "39, 25",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "난새 너울",
+      "code": 1103018,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "28, 95",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "체리향기",
+      "code": 1103013,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "55, 167",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "신나는 마음",
+      "code": 1103010,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "43, -2",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "푹신 솜꼬리",
+      "code": 1102998,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "별 그림자",
+      "code": 1102992,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "68, 15",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "슈가파우더",
+      "code": 1102976,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "49, 40",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "꼬마 별물결",
+      "code": 1102974,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "38, -21",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "설렘살랑",
+      "code": 1102964,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "50, 114",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "유리빛 꿈",
+      "code": 1102960,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "28, 17",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "영원한 꿈",
+      "code": 1102959,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "28, 17",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "차가운 친구들",
+      "code": 1102951,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "숲의 속삭임",
+      "code": 1102936,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "65, 34",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "스노우 엔젤",
+      "code": 1102934,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "스위트 베리",
+      "code": 1102928,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "43, 28",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "봄의 기운",
+      "code": 1102920,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "59, 56",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "콘서트 뮤즈",
+      "code": 1102915,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "62, 9",
+        "fixed": 0,
+        "pos": 1,
+        "z": 1
+      }
+    },
+    {
+      "name": "아이스 플라워 윙",
+      "code": 1102907,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "89, 30",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "포실포실 눈송이",
+      "code": 1102900,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "72, 104",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "셀피 타임",
+      "code": 1102876,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "-24, 64",
+        "fixed": 1,
+        "pos": 1,
+        "z": 1
+      }
+    },
+    {
+      "name": "블러디 로즈",
+      "code": 1102869,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "83, 74",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "농부님의 은총",
+      "code": 1102864,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "67, 125",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "사파이어 스노우",
+      "code": 1102859,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "53, 103",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "그라비티",
+      "code": 1102848,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "53, 79",
+        "pos": 1,
+        "z": -1
+      }
+    },
+    {
+      "name": "달려달려 콩콩콩",
+      "code": 1102844,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "43, -3",
+        "fixed": 0,
+        "pos": 1,
+        "z": 2
+      }
+    },
+    {
+      "name": "이상한 나라의 민트냥",
+      "code": 1102836,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "60, 107",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "플라잉 하이",
+      "code": 1102831,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "17, 78",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "발랄 꽃바람",
+      "code": 1102822,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "48, 15",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "샤르르 방울",
+      "code": 1102816,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "29, 100",
+        "fixed": 0,
+        "z": 2
+      }
+    },
+    {
+      "name": "피어라 눈꽃",
+      "code": 1102811,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "54, 64",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "빅토리 윙즈",
+      "code": 1102758,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "32, 47",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "토끼곰 캠핑가방",
+      "code": 1102748,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "오매불망 휴양지",
+      "code": 1102712,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "-14, 90",
+        "pos": 1,
+        "z": -1
+      }
+    },
+    {
+      "name": "딩동댕 오로라",
+      "code": 1102706,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "65, 60",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "팡팡 폭죽",
+      "code": 1102688,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "72, 102",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "주먹밥 탈출 소동",
+      "code": 1102674,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "지름신 요정",
+      "code": 1102669,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "-40, 17",
+        "fixed": 1,
+        "pos": 1,
+        "z": 1
+      }
+    },
+    {
+      "name": "구름에 달 가듯",
+      "code": 1102667,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "19, 88",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "암염의 속죄가",
+      "code": 1102632,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "잔소리 메가폰",
+      "code": 1102621,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "-43, 57",
+        "fixed": 1,
+        "pos": 1,
+        "z": 1
+      }
+    },
+    {
+      "name": "아이스맛나 펭돌이",
+      "code": 1102619,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "-32, 40",
+        "fixed": 0,
+        "pos": 1,
+        "z": 1
+      }
+    },
+    {
+      "name": "슈퍼스타 미러볼",
+      "code": 1102608,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "58, 92",
+        "fixed": 0,
+        "pos": 1,
+        "z": -1
+      }
+    },
+    {
+      "name": "두둥실 야구공",
+      "code": 1102593,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "아기드래곤 포비",
+      "code": 1102583,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "-33, 7",
+        "fixed": 0,
+        "pos": 1,
+        "z": 1
+      }
+    },
+    {
+      "name": "매직스타 케이프",
+      "code": 1102420,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1,
+      "effect": {
+        "vector": "-3, 35",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "리본의 천사 주사기",
+      "code": 1101000,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "매드 닥터 청진기",
+      "code": 1100004,
+      "slot": "망토",
+      "cash": 1,
+      "rs": 1
+    },
+    {
+      "name": "곰돌 치어리더",
+      "code": 1103882,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-22, 30",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "주니어 예티 3인방?",
+      "code": 1103875,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-30, 55",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "초콜릿 가득 배낭",
+      "code": 1103874,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "녹그림자",
+      "code": 1103872,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "먹그림자",
+      "code": 1103871,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "메이플 대학 로고",
+      "code": 1103869,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-26, 37",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "핑크빈 부하",
+      "code": 1103868,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-36, 7",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "핑크빈 백팩",
+      "code": 1103863,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "춤추는 빛",
+      "code": 1103862,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "62, 131",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "흐르는 수정",
+      "code": 1103861,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "카르시온 문어 헌터 배낭",
+      "code": 1103850,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "매니저 웜홀",
+      "code": 1103848,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "59, 69",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "화염의 날개",
+      "code": 1103842,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "시노 꼬리",
+      "code": 1103841,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "랑이 꼬리",
+      "code": 1103840,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "묘랑의 날개천",
+      "code": 1103839,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "45, 30",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "루티 꼬리",
+      "code": 1103838,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "침묵의 운해",
+      "code": 1103832,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "84, 47",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "트리캣 꼬리",
+      "code": 1103831,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "술라의 날개천",
+      "code": 1103830,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "45, 30",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "설원의 눈보라",
+      "code": 1103829,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "46, 78",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "테어링 데스",
+      "code": 1103828,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "50, 141",
+        "fixed": 0,
+        "z": -3
+      }
+    },
+    {
+      "name": "초월한 시간",
+      "code": 1103827,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "62, 63",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "화이트 버니",
+      "code": 1103826,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "블랙 버니",
+      "code": 1103825,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "깐깐한 꼬리표",
+      "code": 1103824,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "시종의 친구들",
+      "code": 1103822,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "45, 43",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "버터플라이 임팩트",
+      "code": 1103817,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "58, 27",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "파멸의 날개",
+      "code": 1103816,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "107, 77",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "그림자 오로라",
+      "code": 1103813,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "87, 111",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "새벽별 연회 케이프",
+      "code": 1103805,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "오염된 근원",
+      "code": 1103803,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "106, 116",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "빅풋 갑주",
+      "code": 1103802,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "카링의 악기",
+      "code": 1103801,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "127, 188",
+        "fixed": 0,
+        "z": -3
+      }
+    },
+    {
+      "name": "세렌의 날개",
+      "code": 1103800,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "98, 79",
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "창세의 힘",
+      "code": 1103799,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "139, 243",
+        "fixed": 0,
+        "z": -3
+      }
+    },
+    {
+      "name": "듄켈 망토",
+      "code": 1103798,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "36, 38",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "고통의 속박",
+      "code": 1103797,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "96, 142",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "트루 윌",
+      "code": 1103796,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "78, 124",
+        "fixed": 0,
+        "z": -3
+      }
+    },
+    {
+      "name": "다크 시그너스 엠블럼",
+      "code": 1103795,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "14, 113",
+        "fixed": 0,
+        "z": -3
+      }
+    },
+    {
+      "name": "아카이럼 스네이크",
+      "code": 1103794,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "44, 115",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "매그너스 날개",
+      "code": 1103793,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "드림 베어 꼬리",
+      "code": 1103774,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "우당탕탕 조수들",
+      "code": 1103773,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "대왕쥐가오리의 수호",
+      "code": 1103770,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "더프의 아이돌",
+      "code": 1103769,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "68, 66",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "더프의 응원 불빛",
+      "code": 1103768,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "80, 112",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "데이브 공기통",
+      "code": 1103767,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "상어의 무게",
+      "code": 1103766,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "뽀송송 토끼 꼬리",
+      "code": 1103759,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "시크 블랙 백팩",
+      "code": 1103758,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "시크 화이트 백팩",
+      "code": 1103757,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "회색 냥냥이 꼬리",
+      "code": 1103751,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "해피 돌핀",
+      "code": 1103750,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "77, -12",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "높디 높은 나아아무",
+      "code": 1103749,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "63, 222",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "티르노그 네온사인",
+      "code": 1103747,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "30, 123",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "이노스케와 함께",
+      "code": 1103743,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-49, 76",
+        "fixed": 0
+      }
+    },
+    {
+      "name": "젠이츠와 함께",
+      "code": 1103742,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-54, 87",
+        "fixed": 0
+      }
+    },
+    {
+      "name": "텐겐의 일륜도",
+      "code": 1103741,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "네즈코 상자",
+      "code": 1103740,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "바캉스 썬 비치",
+      "code": 1103737,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "48, 119",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "페이퍼돌 윙",
+      "code": 1103732,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "페이퍼 드림",
+      "code": 1103731,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "46, 68",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "기록의 종달새 날개",
+      "code": 1103724,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "33, -4",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "여제 시그너스 케이프",
+      "code": 1103721,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "두더지 정원사",
+      "code": 1103718,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-25, 27",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "회사원의 하루",
+      "code": 1103717,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "61, 134",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "러블리 슈가 망토",
+      "code": 1103713,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-7, 110",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "빅토리아컵 해적팀 휘장",
+      "code": 1103712,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "11, 129",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "빅토리아컵 전사팀 휘장",
+      "code": 1103711,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "11, 129",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "빅토리아컵 마법사팀 휘장",
+      "code": 1103710,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "11, 129",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "속박의 사슬",
+      "code": 1103709,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "57, 100",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "단짝 친구 베리",
+      "code": 1103708,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "빅토리아컵 도적팀 휘장",
+      "code": 1103704,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "11, 129",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "빅토리아컵 궁수팀 휘장",
+      "code": 1103703,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "11, 129",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "검은 늑대 예프넨 코트",
+      "code": 1103702,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "무적의 수호대",
+      "code": 1103694,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-41, 38",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "방독면 망토",
+      "code": 1103690,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "꿈꾸는 애벌레 꼬리",
+      "code": 1103686,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "한 밤의 신기루",
+      "code": 1103682,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "소원을 띄운 구름",
+      "code": 1103681,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "44, 110",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "숲속의 마법사 망토",
+      "code": 1103679,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "곁에 머문 나비",
+      "code": 1103678,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "58, 109",
+        "fixed": 0,
+        "pos": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "굿나잇 오르카 이불",
+      "code": 1103677,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "굿나잇 스우 이불",
+      "code": 1103676,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "주인곰의 무대",
+      "code": 1103673,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "74, 69",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "샤이닝 멜로디",
+      "code": 1103666,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "76, 88",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "같이가! 도치",
+      "code": 1103665,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "46, 25",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "꿈의 나비 날개",
+      "code": 1103662,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "주니어 부기의 복수",
+      "code": 1103654,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "5, 62",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "특별한 티타임",
+      "code": 1103652,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "44, -3",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "은하의 파편",
+      "code": 1103651,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "45, 10",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "테니의 태엽",
+      "code": 1103650,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-3, -10",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "오동통 유령 냥이",
+      "code": 1103649,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-32, 6",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "로얄 미스틱 케이프",
+      "code": 1103648,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "포근 곰의 사랑",
+      "code": 1103645,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "9, 63",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "더키 버블 타임",
+      "code": 1103644,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-6, 44",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "클라우드 버블 타임",
+      "code": 1103643,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-6, 44",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "아그니스 날개",
+      "code": 1103636,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "플루이드 날개",
+      "code": 1103635,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "볼타릭스 날개",
+      "code": 1103634,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "바크 날개",
+      "code": 1103633,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "레이든 날개",
+      "code": 1103632,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "스러진 황야",
+      "code": 1103631,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "엘 페일 글로우",
+      "code": 1103629,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "71, 67",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "엘 클리어 글로우",
+      "code": 1103628,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "71, 67",
+        "fixed": 0,
+        "pos": 1,
+        "z": -3
+      }
+    },
+    {
+      "name": "꿈의 항해사",
+      "code": 1103618,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "13, 60",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "한여름밤 나비",
+      "code": 1103617,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "61, 50",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "솔바람 패러글라이더",
+      "code": 1103609,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "뭉실뭉실 꼬리",
+      "code": 1103606,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "작은 해달 꼬리",
+      "code": 1103605,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "아장아장 파티장식",
+      "code": 1103598,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "67, 136",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "다람이가 졸졸졸",
+      "code": 1103595,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "38, -24",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "백스트리트 네온",
+      "code": 1103592,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "51, 100",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "버블버블 래빗",
+      "code": 1103591,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "48, 54",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "하트냥이 낚싯대",
+      "code": 1103589,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "0, 105",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "빨간 달팽이 배낭",
+      "code": 1103588,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "신비한 숲속 반짝임",
+      "code": 1103587,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "66, 70",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "오르비스 프레이",
+      "code": 1103581,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "51, 129",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "메이프릴 케이프",
+      "code": 1103579,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "26, 129",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "냥냥 테일",
+      "code": 1103578,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "숨겨진 차원",
+      "code": 1103576,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "정예 기사단 망토",
+      "code": 1103570,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "핑크빈 네온 사인 망토",
+      "code": 1103569,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "27, 107",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "꽃보라",
+      "code": 1103568,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "94, 124",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "달콤한 핑크",
+      "code": 1103564,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "55, 48",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "칼리의 스카프",
+      "code": 1103563,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "하트체크 리본",
+      "code": 1103555,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "55, 117",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "별의 울림",
+      "code": 1103552,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-17, 118",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "디저트 엔젤",
+      "code": 1103551,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "숟가락X포크 망토",
+      "code": 1103550,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "64, 135",
+        "z": -2
+      }
+    },
+    {
+      "name": "솔트 앤 페퍼 망토",
+      "code": 1103549,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "[BLACKPINK] 응원봉",
+      "code": 1103548,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "[BLACKPINK] 베놈 나이트",
+      "code": 1103547,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "115, 128",
+        "fixed": 0,
+        "z": -3
+      }
+    },
+    {
+      "name": "반짝 추진로켓",
+      "code": 1103546,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "겨울여우 꼬리",
+      "code": 1103545,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "야옹 사탕 별꼬리",
+      "code": 1103534,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "펑크 배낭",
+      "code": 1103533,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "콩콩 바이탈",
+      "code": 1103523,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "진 악마의 어둠",
+      "code": 1103518,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "20, 52",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "진 천사의 빛",
+      "code": 1103517,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "27, 55",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "미드나잇 풀 문 파티",
+      "code": 1103516,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "0, 105",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "디어 쁘띠",
+      "code": 1103504,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "샤이닝 캔디",
+      "code": 1103503,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "57, 97",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "암흑의 균열",
+      "code": 1103496,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "59, 57",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "모래 리본꼬리",
+      "code": 1103492,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "쌩쌩 도시 여행",
+      "code": 1103487,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "99, 134",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "환희의 날갯짓",
+      "code": 1103486,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "0, 70",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "어둠의 날갯짓",
+      "code": 1103485,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "0, 68",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "몰아치는 어둠",
+      "code": 1103483,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "56, -7",
+        "fixed": 0,
+        "pos": 1,
+        "z": 2
+      }
+    },
+    {
+      "name": "빛의 기사 망토",
+      "code": 1103480,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "번개의 기사 망토",
+      "code": 1103479,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "68, 61",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "어둠의 기사 망토",
+      "code": 1103478,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "불의 기사 망토",
+      "code": 1103477,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "바람의 기사 망토",
+      "code": 1103476,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "해와 달의 기사 망토",
+      "code": 1103475,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "7000일의 감사 망토",
+      "code": 1103473,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "78, 105",
+        "fixed": 1,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "하트비트 악마꼬리",
+      "code": 1103470,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "한밤의 축제",
+      "code": 1103462,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "44, 87",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "메이플 모멘트리 윙즈",
+      "code": 1103461,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "60, 97",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "병아리 책가방",
+      "code": 1103455,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "선물 왔어요",
+      "code": 1103452,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "전설의 냄비 뚜껑",
+      "code": 1103451,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "봄소식 날개",
+      "code": 1103449,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "오로라냥 꼬리",
+      "code": 1103446,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "드로잉 북",
+      "code": 1103445,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-25, 68",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "로즈 윈드",
+      "code": 1103444,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "59, 95",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "블러드 문 이클립스",
+      "code": 1103443,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "84, 121",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "곰나잇 인사",
+      "code": 1103442,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "59, 74",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "춤추는 꽃잎",
+      "code": 1103441,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "54, 94",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "예티 네온 사인 망토",
+      "code": 1103440,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "29, 111",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "유리 별구슬",
+      "code": 1103439,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "설야의 문장",
+      "code": 1103426,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "18, 124",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "달의 공전",
+      "code": 1103424,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "62, 52",
+        "fixed": 0,
+        "z": 2
+      }
+    },
+    {
+      "name": "싱귤러 포인트",
+      "code": 1103423,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "17, 113",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "빅토리안 러브레터",
+      "code": 1103422,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "47, 38",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "찬란한 달빛",
+      "code": 1103421,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "23, 120",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "몰아치는 소용돌이",
+      "code": 1103420,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "75, 127",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "달나라 미니 은하수",
+      "code": 1103419,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "58, 81",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "카메오 브로치",
+      "code": 1103416,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "79, 114",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "메이플 에코백",
+      "code": 1103415,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "달빛 아래",
+      "code": 1103414,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "45, 108",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "반짝이던 밤의 기억",
+      "code": 1103413,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "80, 119",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "붉은 고요 망토",
+      "code": 1103412,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "별빛 망토",
+      "code": 1103410,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "61, 75",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "장난꾸러기 애착인형",
+      "code": 1103406,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "리듬 음표",
+      "code": 1103405,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "52, 54",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "길잡이 별",
+      "code": 1103404,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "55, 88",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "리본 컨페티",
+      "code": 1103403,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "45, 60",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "아이돌 스파클",
+      "code": 1103402,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "48, -21",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "밤 비단 두루마기",
+      "code": 1103400,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "87, 142",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "도시의 별무리",
+      "code": 1103399,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "67, 84",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "락스타 소울",
+      "code": 1103398,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "매화도",
+      "code": 1103397,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "10, 101",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "멈춰? 달려!",
+      "code": 1103396,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "1, 95",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "돌의 정령의 반짝임",
+      "code": 1103395,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "59, 98",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "빛의 연회",
+      "code": 1103390,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "64, 107",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "마법세계와 로그인",
+      "code": 1103389,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "49, 105",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "선물이 좋아",
+      "code": 1103388,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "41, 26",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "배틀 라이플",
+      "code": 1103387,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "짊어지는 악몽",
+      "code": 1103386,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "도원향",
+      "code": 1103385,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "47, 112",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "반짝이는 겨울 눈꽃",
+      "code": 1103384,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "74, 199",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "추추 팝콘 망토",
+      "code": 1103381,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "11, 127",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "웡키의 날개",
+      "code": 1103380,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "퐁퐁 복숭아",
+      "code": 1103376,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "48, -1",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "신성한 숲의 가호",
+      "code": 1103371,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "살구빛 소원",
+      "code": 1103361,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "83, 126",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "버섯의 노래",
+      "code": 1103360,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "36, -28",
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "어둠의 추격자 날개",
+      "code": 1103356,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "87, 50",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "상큼 달콤 펭귄즈",
+      "code": 1103347,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "35, 19",
+        "fixed": 0,
+        "z": 2
+      }
+    },
+    {
+      "name": "도넛 파티",
+      "code": 1103346,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "64, 80",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "스윗레터 잉크",
+      "code": 1103337,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "45, 89",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "사랑의 커플부대 망토",
+      "code": 1103334,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "무적의 솔로부대 망토",
+      "code": 1103333,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "프룻 리프",
+      "code": 1103332,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "드림캐쳐",
+      "code": 1103331,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "32, 173",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "플로르 레이스",
+      "code": 1103326,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "소가 됐소 꼬리",
+      "code": 1103320,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "다람곰 탐험단 배낭",
+      "code": 1103315,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "[BTS] 스완 세레나데",
+      "code": 1103305,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "27, 28",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "[BTS] 미밤이",
+      "code": 1103304,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-35, 15",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "달빛 요정 날개",
+      "code": 1103296,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "33, 4",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "카리아인 망토",
+      "code": 1103291,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "11, 59",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "헤어져",
+      "code": 1103284,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "58, 27",
+        "fixed": 0,
+        "pos": 1,
+        "z": 2
+      }
+    },
+    {
+      "name": "사랑중",
+      "code": 1103283,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "58, 27",
+        "fixed": 0,
+        "pos": 1,
+        "z": 2
+      }
+    },
+    {
+      "name": "더블샷 갤럭시",
+      "code": 1103281,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "65, 118",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "듄켈의 망토",
+      "code": 1103274,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "캔디 스카이",
+      "code": 1103264,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "55, 57",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "포도가 좋아",
+      "code": 1103263,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "48, 6",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "아라사",
+      "code": 1103257,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "52, 8",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "흑백영화",
+      "code": 1103251,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "57, 106",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "신선 놀음 망토",
+      "code": 1103246,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "81, 142",
+        "fixed": 0,
+        "pos": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "드림 랜드",
+      "code": 1103244,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-8, 12",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "솜 눈꽃",
+      "code": 1103240,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "55, 58",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "눈부심",
+      "code": 1103236,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "71, 128",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "핑크빈 꼬리",
+      "code": 1103234,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "마나 폭주",
+      "code": 1103233,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "56, 109",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "문래빗 키링",
+      "code": 1103223,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "12, 94",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "추풍낙엽",
+      "code": 1103222,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "87, 160",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "달별 백팩",
+      "code": 1103218,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "쁘띠 페어리 윙",
+      "code": 1103213,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "53, 14",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "핑크 젤리백",
+      "code": 1103204,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "청량 소다",
+      "code": 1103203,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "47, 32",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "파자마 파티",
+      "code": 1103196,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "50, 1",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "에르다의 빛",
+      "code": 1103193,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "15, 72",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "비숑 동동",
+      "code": 1103186,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-21, -16",
+        "fixed": 0,
+        "pos": 1,
+        "z": 2
+      }
+    },
+    {
+      "name": "어드벤처 망토",
+      "code": 1103179,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "8, 131",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "봄의 반짝임",
+      "code": 1103178,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "69, 103",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "커스드 헌터 망토",
+      "code": 1103176,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "35, 69",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "어드벤처 윙",
+      "code": 1103168,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "94, 58",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "뽀송송 팡팡",
+      "code": 1103156,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "스타 탄생",
+      "code": 1103153,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "59, 54",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "호신단도",
+      "code": 1103149,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "사신의 망토",
+      "code": 1103131,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "메이플 연합 망토",
+      "code": 1103124,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "애옹이 보따리",
+      "code": 1103119,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "불타는 팬심",
+      "code": 1103115,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "40, 32",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "피크닉 가자",
+      "code": 1103106,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "27, 134",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "삼둥이 돌의 정령",
+      "code": 1103105,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "피크닉 벌룬",
+      "code": 1103104,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "메이플 트렌디 서류요정",
+      "code": 1103103,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "우울하다",
+      "code": 1103102,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-7, 41",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "넘치는 마음",
+      "code": 1103097,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-28, 37",
+        "fixed": 1,
+        "pos": 1,
+        "z": 1
+      }
+    },
+    {
+      "name": "나는 너야",
+      "code": 1103095,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-5, 35",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "구름이",
+      "code": 1103090,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "왕시루",
+      "code": 1103089,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "초코 가득 망토",
+      "code": 1103087,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "54, 21",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "행복하시개",
+      "code": 1103081,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "103, 167",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "아크 아우라",
+      "code": 1103080,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "46, 60",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "어깨가 내 집",
+      "code": 1103075,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "폭신폭신 망토",
+      "code": 1103068,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "사슬날개",
+      "code": 1103065,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "116, 80",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "페어리 펄",
+      "code": 1103057,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "꿈결",
+      "code": 1103056,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "67, 115",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "엔젤릭 그레이",
+      "code": 1103052,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "순금 태엽인형",
+      "code": 1103051,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "파도 날개",
+      "code": 1103041,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "53, 36",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "별똥별",
+      "code": 1103036,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "41, 115",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "샬럿의 정원",
+      "code": 1103031,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "67, 85",
+        "z": -1
+      }
+    },
+    {
+      "name": "라 돌체 비타",
+      "code": 1103024,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-12, 46",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "메이플 갤럭시 망토",
+      "code": 1103022,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "13, 124",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "무한의 날개",
+      "code": 1103021,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "15, 97",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "우주 친구들",
+      "code": 1103020,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-35, 66",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "꽃잎 노래",
+      "code": 1103019,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "85, 69",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "나폴레옹 망토",
+      "code": 1103015,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "새싹 가득",
+      "code": 1103014,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "탐정조수 주황버섯",
+      "code": 1103012,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "에르다의 흐름",
+      "code": 1103011,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "60, 96",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "메롱! 망토",
+      "code": 1103004,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "방패연 망토",
+      "code": 1103001,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "장난꾸러기 무지개",
+      "code": 1102999,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "82, 112",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "메이플 5000일 망토",
+      "code": 1102987,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "63, 99",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "사랑의 포장리본",
+      "code": 1102981,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "39, 29",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "쁘띠 다크엔젤 윙",
+      "code": 1102980,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "75, 60",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "치느님의 축복",
+      "code": 1102977,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "74, 72",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "새벽의 오팔",
+      "code": 1102973,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "할로윈 팬텀",
+      "code": 1102967,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "반딧불의 춤",
+      "code": 1102965,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "76, 179",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "시끌시끌",
+      "code": 1102961,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "46, 39",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "할로윈 축제 전구",
+      "code": 1102958,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "무지개 물거품",
+      "code": 1102950,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "48, 94",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "순수 날개",
+      "code": 1102949,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "41, 6",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "쁘띠 네온 윙",
+      "code": 1102948,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "63, 52",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "New 엔젤릭 에메랄드",
+      "code": 1102947,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "사라사",
+      "code": 1102946,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "52, 8",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "꺄옹이랑 콩콩콩",
+      "code": 1102945,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-32, 23",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "바람이 슝슝",
+      "code": 1102935,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "62, 23",
+        "fixed": 0,
+        "pos": 1,
+        "z": 2
+      }
+    },
+    {
+      "name": "메이플 노블 케이프",
+      "code": 1102931,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "봄비가 똑똑똑",
+      "code": 1102930,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "52, 40",
+        "fixed": 0,
+        "z": -1
+      }
+    },
+    {
+      "name": "올블랙 데블",
+      "code": 1102929,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "47, 8",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "상어 꼬리",
+      "code": 1102926,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "솔로부대 전투망토",
+      "code": 1102923,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "졸졸졸 베이비덕",
+      "code": 1102919,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-13, 33",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "이글이글 아우라",
+      "code": 1102918,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "83, 130",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "천사 쿠키배낭",
+      "code": 1102917,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "아가뽀뽀 장난감",
+      "code": 1102916,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "푸른 나비의 춤",
+      "code": 1102914,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "블랙 네로의 백허그",
+      "code": 1102906,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "오늘의 햇살 망토",
+      "code": 1102905,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "85, 166",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "둥실둥실 원숭이",
+      "code": 1102903,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-8, 125",
+        "fixed": 0,
+        "z": 1
+      }
+    },
+    {
+      "name": "두근두근쿵쿵",
+      "code": 1102902,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-34, 17",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "반짝반짝해",
+      "code": 1102901,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "53, 43",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "시크릿 은월 케이프",
+      "code": 1102899,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "시크릿 은월 케이프",
+      "code": 1102898,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "라크니스 루미너스 케이프",
+      "code": 1102897,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "라크니스 루미너스 케이프",
+      "code": 1102896,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "프리징 아란 케이프",
+      "code": 1102895,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "프리징 아란 케이프",
+      "code": 1102894,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "미스틱 팬텀 케이프",
+      "code": 1102893,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "미스틱 팬텀 케이프",
+      "code": 1102892,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "로얄 메르세데스 케이프",
+      "code": 1102891,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "로얄 메르세데스 케이프",
+      "code": 1102890,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "에반 드래곤 케이프",
+      "code": 1102889,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "에반 드래곤 케이프",
+      "code": 1102888,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "블루 마린 화창한 기분",
+      "code": 1102877,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "26, 73",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "기억 잃은 외계인",
+      "code": 1102875,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-21, 84",
+        "fixed": 0,
+        "z": 1
+      }
+    },
+    {
+      "name": "밤비니 윙즈",
+      "code": 1102874,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "42, 8",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "이터널 노블레스",
+      "code": 1102873,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "82, 48",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "샤인 노블레스",
+      "code": 1102872,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "74, 27",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "한밤의 검은 관",
+      "code": 1102870,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "30, 95",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "우르르 쾅쾅 망토",
+      "code": 1102865,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "97, 169",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "뾰로롱 무지개 망토",
+      "code": 1102863,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "86, 110",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "우르스의 빛",
+      "code": 1102861,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "43, 90",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "전설의 어인",
+      "code": 1102857,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-10, 0",
+        "fixed": 0,
+        "pos": 1,
+        "z": 1
+      }
+    },
+    {
+      "name": "연화학원 수호혼불",
+      "code": 1102847,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "48, 60",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "파랑 파랑 판다",
+      "code": 1102845,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "아이리스 펄",
+      "code": 1102841,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "68, 81",
+        "fixed": 0,
+        "pos": 1,
+        "z": 2
+      }
+    },
+    {
+      "name": "꿈 속의 꿈",
+      "code": 1102837,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-9, 102",
+        "z": -1
+      }
+    },
+    {
+      "name": "슈바르츠 롱코트",
+      "code": 1102835,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "기계 망토",
+      "code": 1102832,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "73, 103",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "돼지바의 요정",
+      "code": 1102830,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-3, 71",
+        "fixed": 0,
+        "pos": 1,
+        "z": -1
+      }
+    },
+    {
+      "name": "하프블러드 윙즈",
+      "code": 1102824,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "63, 40",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "쁘띠데블 윙즈",
+      "code": 1102823,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "30, 0",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "꾸러기 백팩",
+      "code": 1102819,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "복덩이 가방",
+      "code": 1102815,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "어깨 위 블랑슈",
+      "code": 1102813,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "결전! 블리자드!",
+      "code": 1102812,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "74, 132",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "둥실둥실 스마일 핑크",
+      "code": 1102804,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "눈곰돌이 목도리",
+      "code": 1102789,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "롤리롤리 롤리팝",
+      "code": 1102778,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "개기 월식 망토",
+      "code": 1102774,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "45, 129",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "귀신 망토",
+      "code": 1102773,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "낡은 귀신 망토",
+      "code": 1102772,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "26, 31",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "마녀 망토",
+      "code": 1102769,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "낡은 마녀 망토",
+      "code": 1102768,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "39, -12",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "병약 오르카 링거",
+      "code": 1102767,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "폭주 스우 아우라",
+      "code": 1102766,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "49, 69",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "데굴데굴 친구들",
+      "code": 1102759,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "팡팡 스타 벌룬",
+      "code": 1102755,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "새들의 아이돌",
+      "code": 1102754,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "별나라 풍선",
+      "code": 1102749,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "큐티 판다즈",
+      "code": 1102747,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "글로리어스 아우라",
+      "code": 1102730,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "76, 59",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "찰싹 아기해달",
+      "code": 1102725,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "뽀잉뽀잉 뽀",
+      "code": 1102709,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "59, 35",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "발그레 소라",
+      "code": 1102708,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "꿈꾸는 소라",
+      "code": 1102707,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "플라이 제이드",
+      "code": 1102703,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "62, 64",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "플라이 루비",
+      "code": 1102702,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "62, 64",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "쁘띠 시엘",
+      "code": 1102700,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "40, 46",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "마그마 날개",
+      "code": 1102699,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "54, 33",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "에메랄드 날개",
+      "code": 1102698,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "53, 42",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "스피릿 나인테일",
+      "code": 1102695,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "미니미니 슬라임",
+      "code": 1102694,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "아기 핑크 판다 망토",
+      "code": 1102685,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "캔디파티 리본",
+      "code": 1102675,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "유령 풍선",
+      "code": 1102673,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "은월 여우꼬리",
+      "code": 1102650,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "K군의 고양이 꼬리",
+      "code": 1102648,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "쁘띠 픽시",
+      "code": 1102644,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "40, 46",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "골든 에이지",
+      "code": 1102643,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "65, 81",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "로맨틱 윙 케루빔",
+      "code": 1102630,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "88, 36",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "핑크 케루빔",
+      "code": 1102629,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "50, 30",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "달팽이집",
+      "code": 1102625,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "우라노스 아우라",
+      "code": 1102624,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "78, 47",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "나만의 불꽃놀이",
+      "code": 1102620,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "24, 58",
+        "fixed": 0,
+        "pos": 1,
+        "z": -1
+      }
+    },
+    {
+      "name": "라즐리 스피릿",
+      "code": 1102617,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-32, 35",
+        "fixed": 0,
+        "pos": 1,
+        "z": 1
+      }
+    },
+    {
+      "name": "라피스 스피릿",
+      "code": 1102616,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "-32, 35",
+        "fixed": 0,
+        "pos": 1,
+        "z": 1
+      }
+    },
+    {
+      "name": "시계탑 태엽 인형",
+      "code": 1102615,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "배몬 패배자 망토",
+      "code": 1102592,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "배몬 승리자 망토",
+      "code": 1102591,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "GM대장의 루시아 망토",
+      "code": 1102582,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "병아리떼 쫑쫑쫑",
+      "code": 1102574,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "그라테스 아우라",
+      "code": 1102572,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "78, 47",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "천의무봉",
+      "code": 1102564,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "서큐버스 윙즈",
+      "code": 1102554,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "사파이어 윙즈",
+      "code": 1102551,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "64, 73",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "라임그린 윙즈",
+      "code": 1102550,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "65, 77",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "잎새의 꿈",
+      "code": 1102548,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "80, 61",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "자수정의 꿈",
+      "code": 1102547,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "80, 61",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "파랑새의 꿈",
+      "code": 1102546,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "80, 56",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "알바트로스 망토",
+      "code": 1102545,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "알바트로스 망토",
+      "code": 1102544,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "라이트 윙 케루빔",
+      "code": 1102532,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "88, 36",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "다크 포스 케이프",
+      "code": 1102512,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "엔젤 케루빔",
+      "code": 1102511,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "50, 30",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "고양이 꼬리 샤랄라",
+      "code": 1102510,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "고양이 꼬리 살랑",
+      "code": 1102503,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "[MS특가] 내 친구 구미호 꼬리",
+      "code": 1102501,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "하이퍼 꿀벌 요정 날개",
+      "code": 1102496,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "써니데이",
+      "code": 1102491,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "24, 93",
+        "fixed": 0,
+        "pos": 1,
+        "z": 1
+      }
+    },
+    {
+      "name": "루미너스 케루빔",
+      "code": 1102487,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "68, 81",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "노빌리타스 아우라",
+      "code": 1102466,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "78, 48",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "드라이어드",
+      "code": 1102453,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "71, 76",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "페어리 아우라",
+      "code": 1102452,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "82, 65",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "다크니스 아우라",
+      "code": 1102451,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "83, 66",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "안젤리크 아우라",
+      "code": 1102450,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "82, 64",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "오로라 엔젤",
+      "code": 1102390,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "오로라 파라디",
+      "code": 1102389,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "낙스 케루빔",
+      "code": 1102386,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "69, 80",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "룩스 케루빔",
+      "code": 1102385,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "69, 79",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "임페리얼 듀크 윙",
+      "code": 1102381,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "올망졸망 개구리",
+      "code": 1102380,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "프쉬케 멜로디",
+      "code": 1102378,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "60, 50",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "프쉬케 미스틱",
+      "code": 1102377,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "60, 50",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "프쉬케 플로라",
+      "code": 1102376,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "60, 50",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "엘븐 스피릿 망토",
+      "code": 1102367,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "두둥실 눈사람 풍선",
+      "code": 1102359,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "빙글빙글 미러볼",
+      "code": 1102358,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "이뻐 핑크빈 풍선",
+      "code": 1102357,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "엔젤릭 에메랄드",
+      "code": 1102356,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "쥬얼리 스노우",
+      "code": 1102355,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "나빌레라",
+      "code": 1102349,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "꿀벌 요정 날개",
+      "code": 1102338,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "천사의 속삭임",
+      "code": 1102326,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "오로라 하모니",
+      "code": 1102325,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "레전드 트윈 벌룬",
+      "code": 1102324,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "레전드 팅키 벌룬",
+      "code": 1102323,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "레전드 펌핑 벌룬",
+      "code": 1102319,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "페어리테일",
+      "code": 1102310,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "New 야누스의 날개",
+      "code": 1102309,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "New 베에모트의 날개",
+      "code": 1102308,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "New 샤키엘의 날개",
+      "code": 1102307,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "트윙클 레인보우",
+      "code": 1102292,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "꽃비단 날개띠",
+      "code": 1102290,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "어부바 눈사람",
+      "code": 1102288,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "둥실둥실 스마일레몬",
+      "code": 1102287,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "둥실둥실 스마일블루",
+      "code": 1102286,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "둥실둥실 스마일핑크",
+      "code": 1102285,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "루시펠 하프 윙",
+      "code": 1102273,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "러블리 초코스틱 풍선",
+      "code": 1102271,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "구름햇님 망토",
+      "code": 1102270,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "내 친구 구미호 꼬리",
+      "code": 1102267,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "이퀄라이저 머플러",
+      "code": 1102261,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "곰돌이 풍선",
+      "code": 1102258,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "배틀메이지 망토",
+      "code": 1102255,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "와일드헌터 망토",
+      "code": 1102254,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "월드컵 수건",
+      "code": 1102251,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "무르무르 페더",
+      "code": 1102250,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "오즈의 매지컬 망토",
+      "code": 1102249,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "해님 망토",
+      "code": 1102245,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "호크아이의 오션 망토",
+      "code": 1102242,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "듀얼블레이드 망토",
+      "code": 1102239,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "어린왕자의 별",
+      "code": 1102232,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "아기양 망토",
+      "code": 1102224,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "별꼬리 망토",
+      "code": 1102223,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "세라핌의 망토",
+      "code": 1102222,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "파티 풍선",
+      "code": 1102215,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "잃어버린 어린 아이",
+      "code": 1102212,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "낭만장미",
+      "code": 1102204,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "초강력 로켓 부스터",
+      "code": 1102203,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "플루토 플레임 망토",
+      "code": 1102202,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "졸랑졸랑 카나리아",
+      "code": 1102197,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "스노우 윈디 머플러",
+      "code": 1102196,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "은빛 여우야 꼬리",
+      "code": 1102188,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "금빛 여우야 꼬리",
+      "code": 1102187,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "고양이 낙하산",
+      "code": 1102186,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "레인보우 스카프",
+      "code": 1102185,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "오로라 해피윙",
+      "code": 1102184,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "큐티버크 망토",
+      "code": 1102175,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "파란색 날개 가방",
+      "code": 1102169,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "언더그라운드 일렉기타",
+      "code": 1102164,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "베이비루팡 망토",
+      "code": 1102160,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "헬로 몽키",
+      "code": 1102159,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "공작깃털 망토",
+      "code": 1102158,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "꼭두각시 망토",
+      "code": 1102157,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "아기강아지 쏭이",
+      "code": 1102155,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "자쿰의 팔",
+      "code": 1102154,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "붉은색 빛나는 나비날개",
+      "code": 1102153,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "해적깃발 망토",
+      "code": 1102152,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "길잃은 아기고양이",
+      "code": 1102151,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "머큐리 클록",
+      "code": 1102149,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "73, 109",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "타니아 클록",
+      "code": 1102148,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "68, 104",
+        "fixed": 0,
+        "z": -2
+      }
+    },
+    {
+      "name": "물동이 망토",
+      "code": 1102143,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "화염 망토",
+      "code": 1102142,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "페페 풍선",
+      "code": 1102141,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "핑크색 날개 가방",
+      "code": 1102138,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "주황버섯 풍선",
+      "code": 1102137,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "토끼 인형",
+      "code": 1102112,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "코끼리 풍선",
+      "code": 1102111,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "다람쥐 꼬리",
+      "code": 1102110,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "악마 꼬리",
+      "code": 1102108,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "로켓부스터",
+      "code": 1102107,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "야누스의 날개",
+      "code": 1102097,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "62, 48",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "샤키엘의 날개",
+      "code": 1102096,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "62, 50",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "베에모트의 날개",
+      "code": 1102095,
+      "slot": "망토",
+      "cash": 1,
+      "effect": {
+        "vector": "62, 48",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "손오공 꼬리",
+      "code": 1102094,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "하트 풍선",
+      "code": 1102093,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "곰인형",
+      "code": 1102092,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "가오리 연",
+      "code": 1102091,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "솜이불",
+      "code": 1102077,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "신문지",
+      "code": 1102076,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "박쥐 날개",
+      "code": 1102075,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "빛나는 나비날개",
+      "code": 1102074,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "핫핑크 포켓백팩",
+      "code": 1102073,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "옐로그린 포켓백팩",
+      "code": 1102072,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "파란 책가방",
+      "code": 1102070,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "핑크 날개",
+      "code": 1102069,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "드라큐라의 날개",
+      "code": 1102068,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "호랑이 꼬리",
+      "code": 1102067,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "암흑의 망토",
+      "code": 1102066,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "크리스마스 망토",
+      "code": 1102065,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "검은 천사날개",
+      "code": 1102063,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "오성홍기 망토",
+      "code": 1102062,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "핑크 리본",
+      "code": 1102060,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "천사 미카엘의 날개",
+      "code": 1102059,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "악마 루시퍼의 날개",
+      "code": 1102058,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "님프의 핑크윙",
+      "code": 1102052,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "님프의 옐로윙",
+      "code": 1102051,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "님프의 그린윙",
+      "code": 1102050,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "님프의 블루윙",
+      "code": 1102049,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "파란색 Z 부스터",
+      "code": 1102045,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "빨간색 Z 부스터",
+      "code": 1102044,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "투명 망토",
+      "code": 1102039,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "복고풍 블루 백팩",
+      "code": 1102038,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "복고풍 블랙 백팩",
+      "code": 1102037,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "복고풍 레드 백팩",
+      "code": 1102036,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "빨간색 보자기",
+      "code": 1102025,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "거북이 등껍질",
+      "code": 1102020,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "태극 망토",
+      "code": 1102019,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "검은색 별무늬 망토",
+      "code": 1102010,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "빨간색 별무늬 망토",
+      "code": 1102009,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "파란색 별무늬 망토",
+      "code": 1102008,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "노란색 별무늬 망토",
+      "code": 1102007,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "꼬마악마 날개",
+      "code": 1102006,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "아기천사 날개",
+      "code": 1102005,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "나폴레옹 망토",
+      "code": 1100001,
+      "slot": "망토",
+      "cash": 1
+    },
+    {
+      "name": "도전자의 망토",
+      "code": 1103725,
+      "slot": "망토"
+    },
+    {
+      "name": "매지컬 슈퍼스타 윙",
+      "code": 1103663,
+      "slot": "망토"
+    },
+    {
+      "name": "플루이드 날개",
+      "code": 1103640,
+      "slot": "망토"
+    },
+    {
+      "name": "볼타릭스 날개",
+      "code": 1103639,
+      "slot": "망토"
+    },
+    {
+      "name": "바크 날개",
+      "code": 1103638,
+      "slot": "망토"
+    },
+    {
+      "name": "레이든 날개",
+      "code": 1103637,
+      "slot": "망토"
+    },
+    {
+      "name": "앤티크 리프 케이프",
+      "code": 1103474,
+      "slot": "망토"
+    },
+    {
+      "name": "에테르넬 파이렛케이프",
+      "code": 1103437,
+      "slot": "망토"
+    },
+    {
+      "name": "에테르넬 시프케이프",
+      "code": 1103436,
+      "slot": "망토"
+    },
+    {
+      "name": "에테르넬 아처케이프",
+      "code": 1103435,
+      "slot": "망토"
+    },
+    {
+      "name": "에테르넬 메이지케이프",
+      "code": 1103434,
+      "slot": "망토"
+    },
+    {
+      "name": "에테르넬 나이트케이프",
+      "code": 1103433,
+      "slot": "망토"
+    },
+    {
+      "name": "천족의 날개",
+      "code": 1103216,
+      "slot": "망토",
+      "effect": {
+        "vector": "18, -11",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "하보크 날개",
+      "code": 1103210,
+      "slot": "망토",
+      "effect": {
+        "vector": "57, 41",
+        "fixed": 0,
+        "pos": 1,
+        "z": -2
+      }
+    },
+    {
+      "name": "글로리온 망토",
+      "code": 1103209,
+      "slot": "망토"
+    },
+    {
+      "name": "견습 도사 망토",
+      "code": 1103205,
+      "slot": "망토"
+    },
+    {
+      "name": "뉴트로 히어로 케이프",
+      "code": 1103192,
+      "slot": "망토"
+    },
+    {
+      "name": "뉴트로 케이프",
+      "code": 1103191,
+      "slot": "망토"
+    },
+    {
+      "name": "연합 사령관 케이프",
+      "code": 1103142,
+      "slot": "망토"
+    },
+    {
+      "name": "업혀있는 ???",
+      "code": 1103137,
+      "slot": "망토"
+    },
+    {
+      "name": "업힌 마루",
+      "code": 1103064,
+      "slot": "망토"
+    },
+    {
+      "name": "아케인셰이드 파이렛케이프",
+      "code": 1102944,
+      "slot": "망토"
+    },
+    {
+      "name": "아케인셰이드 시프케이프",
+      "code": 1102943,
+      "slot": "망토"
+    },
+    {
+      "name": "아케인셰이드 아처케이프",
+      "code": 1102942,
+      "slot": "망토"
+    },
+    {
+      "name": "아케인셰이드 메이지케이프",
+      "code": 1102941,
+      "slot": "망토"
+    },
+    {
+      "name": "아케인셰이드 나이트케이프",
+      "code": 1102940,
+      "slot": "망토"
+    },
+    {
+      "name": "분노한 자쿰의 망토",
+      "code": 1102871,
+      "slot": "망토"
+    },
+    {
+      "name": "메이플 트레져 망토",
+      "code": 1102828,
+      "slot": "망토"
+    },
+    {
+      "name": "커플부대 전투망토",
+      "code": 1102821,
+      "slot": "망토"
+    },
+    {
+      "name": "블랙 케이프",
+      "code": 1102799,
+      "slot": "망토"
+    },
+    {
+      "name": "앱솔랩스 파이렛케이프",
+      "code": 1102797,
+      "slot": "망토"
+    },
+    {
+      "name": "앱솔랩스 시프케이프",
+      "code": 1102796,
+      "slot": "망토"
+    },
+    {
+      "name": "앱솔랩스 아처케이프",
+      "code": 1102795,
+      "slot": "망토"
+    },
+    {
+      "name": "앱솔랩스 메이지케이프",
+      "code": 1102794,
+      "slot": "망토"
+    },
+    {
+      "name": "앱솔랩스 나이트케이프",
+      "code": 1102775,
+      "slot": "망토"
+    },
+    {
+      "name": "펜살리르 스키퍼케이프",
+      "code": 1102722,
+      "slot": "망토"
+    },
+    {
+      "name": "펜살리르 체이서케이프",
+      "code": 1102721,
+      "slot": "망토"
+    },
+    {
+      "name": "펜살리르 센티널케이프",
+      "code": 1102720,
+      "slot": "망토"
+    },
+    {
+      "name": "펜살리르 메이지케이프",
+      "code": 1102719,
+      "slot": "망토"
+    },
+    {
+      "name": "펜살리르 배틀케이프",
+      "code": 1102718,
+      "slot": "망토"
+    },
+    {
+      "name": "로얄 반 레온 스키퍼케이프",
+      "code": 1102717,
+      "slot": "망토"
+    },
+    {
+      "name": "로얄 반 레온 체이서케이프",
+      "code": 1102716,
+      "slot": "망토"
+    },
+    {
+      "name": "로얄 반 레온 센티널케이프",
+      "code": 1102715,
+      "slot": "망토"
+    },
+    {
+      "name": "로얄 반 레온 메이지케이프",
+      "code": 1102714,
+      "slot": "망토"
+    },
+    {
+      "name": "로얄 반 레온 워리어케이프",
+      "code": 1102713,
+      "slot": "망토"
+    },
+    {
+      "name": "11주년 세인트 케이프",
+      "code": 1102691,
+      "slot": "망토"
+    },
+    {
+      "name": "내겐 너무 무거운 그녀 망토",
+      "code": 1102689,
+      "slot": "망토"
+    },
+    {
+      "name": "솔로부대 전투망토",
+      "code": 1102681,
+      "slot": "망토"
+    },
+    {
+      "name": "뾰족 꼬리 망토",
+      "code": 1102660,
+      "slot": "망토"
+    },
+    {
+      "name": "데네브 케이프",
+      "code": 1102649,
+      "slot": "망토"
+    },
+    {
+      "name": "레볼루션 망토",
+      "code": 1102612,
+      "slot": "망토"
+    },
+    {
+      "name": "행복 화이트 케이프",
+      "code": 1102606,
+      "slot": "망토"
+    },
+    {
+      "name": "쯔바이핸더",
+      "code": 1102601,
+      "slot": "망토"
+    },
+    {
+      "name": "연금술사의 망토",
+      "code": 1102595,
+      "slot": "망토"
+    },
+    {
+      "name": "세인트윙 나이트 케이프",
+      "code": 1102594,
+      "slot": "망토"
+    },
+    {
+      "name": "엘리넬의 날개",
+      "code": 1102590,
+      "slot": "망토"
+    },
+    {
+      "name": "10주년 화이트 케이프",
+      "code": 1102563,
+      "slot": "망토"
+    },
+    {
+      "name": "10주년 블랙 케이프",
+      "code": 1102562,
+      "slot": "망토"
+    },
+    {
+      "name": "슈피겔만 스트롱 케이프",
+      "code": 1102556,
+      "slot": "망토"
+    },
+    {
+      "name": "골드라벨 나이트 케이프",
+      "code": 1102553,
+      "slot": "망토"
+    },
+    {
+      "name": "섀도우 나이트 케이프",
+      "code": 1102552,
+      "slot": "망토"
+    },
+    {
+      "name": "노블레스 망토",
+      "code": 1102534,
+      "slot": "망토"
+    },
+    {
+      "name": "요정의 프로스티 케이프",
+      "code": 1102530,
+      "slot": "망토"
+    },
+    {
+      "name": "임페리얼 퍼번트 케이프",
+      "code": 1102518,
+      "slot": "망토"
+    },
+    {
+      "name": "임페리얼 스위프트 케이프",
+      "code": 1102517,
+      "slot": "망토"
+    },
+    {
+      "name": "임페리얼 샤프니스 케이프",
+      "code": 1102516,
+      "slot": "망토"
+    },
+    {
+      "name": "임페리얼 메모리스 케이프",
+      "code": 1102515,
+      "slot": "망토"
+    },
+    {
+      "name": "임페리얼 브레이브 케이프",
+      "code": 1102514,
+      "slot": "망토"
+    },
+    {
+      "name": "프로스티 케이프",
+      "code": 1102507,
+      "slot": "망토"
+    },
+    {
+      "name": "얼티밋 망토",
+      "code": 1102506,
+      "slot": "망토"
+    },
+    {
+      "name": "데몬 클래식 케이프",
+      "code": 1102505,
+      "slot": "망토"
+    },
+    {
+      "name": "스텔라 망토",
+      "code": 1102502,
+      "slot": "망토"
+    },
+    {
+      "name": "타일런트 알테어 클록",
+      "code": 1102485,
+      "slot": "망토"
+    },
+    {
+      "name": "타일런트 리카온 클록",
+      "code": 1102484,
+      "slot": "망토"
+    },
+    {
+      "name": "타일런트 케이론 클록",
+      "code": 1102483,
+      "slot": "망토"
+    },
+    {
+      "name": "타일런트 헤르메스 클록",
+      "code": 1102482,
+      "slot": "망토"
+    },
+    {
+      "name": "타일런트 히아데스 클록",
+      "code": 1102481,
+      "slot": "망토"
+    },
+    {
+      "name": "노바 알테어 클록",
+      "code": 1102480,
+      "slot": "망토"
+    },
+    {
+      "name": "노바 리카온 클록",
+      "code": 1102479,
+      "slot": "망토"
+    },
+    {
+      "name": "노바 케이론 클록",
+      "code": 1102478,
+      "slot": "망토"
+    },
+    {
+      "name": "노바 헤르메스 클록",
+      "code": 1102477,
+      "slot": "망토"
+    },
+    {
+      "name": "노바 히아데스 클록",
+      "code": 1102476,
+      "slot": "망토"
+    },
+    {
+      "name": "헬리시움 정예 해적 망토",
+      "code": 1102475,
+      "slot": "망토"
+    },
+    {
+      "name": "헬리시움 정예 도적 망토",
+      "code": 1102474,
+      "slot": "망토"
+    },
+    {
+      "name": "헬리시움 정예 궁수 망토",
+      "code": 1102473,
+      "slot": "망토"
+    },
+    {
+      "name": "헬리시움 정예 법사 망토",
+      "code": 1102472,
+      "slot": "망토"
+    },
+    {
+      "name": "헬리시움 정예 전사 망토",
+      "code": 1102471,
+      "slot": "망토"
+    },
+    {
+      "name": "템페스트 망토",
+      "code": 1102467,
+      "slot": "망토"
+    },
+    {
+      "name": "그랜드 베파르 케이프",
+      "code": 1102449,
+      "slot": "망토"
+    },
+    {
+      "name": "그랜드 핼파스 케이프",
+      "code": 1102448,
+      "slot": "망토"
+    },
+    {
+      "name": "그랜드 이포스 케이프",
+      "code": 1102447,
+      "slot": "망토"
+    },
+    {
+      "name": "그랜드 엘리고스 케이프",
+      "code": 1102446,
+      "slot": "망토"
+    },
+    {
+      "name": "그랜드 아가레스 케이프",
+      "code": 1102445,
+      "slot": "망토"
+    },
+    {
+      "name": "다크 오로라 케이프",
+      "code": 1102444,
+      "slot": "망토"
+    },
+    {
+      "name": "오로라 케이프",
+      "code": 1102442,
+      "slot": "망토"
+    },
+    {
+      "name": "프리미엄 메이플 이올렛 스타클록",
+      "code": 1102441,
+      "slot": "망토"
+    },
+    {
+      "name": "메이플 이올렛 스타클록",
+      "code": 1102394,
+      "slot": "망토"
+    },
+    {
+      "name": "화이트데이 하트 풍선",
+      "code": 1102379,
+      "slot": "망토"
+    },
+    {
+      "name": "팬클럽 풍선 (리린)",
+      "code": 1102372,
+      "slot": "망토"
+    },
+    {
+      "name": "팬클럽 풍선 (발레리)",
+      "code": 1102371,
+      "slot": "망토"
+    },
+    {
+      "name": "팬클럽 풍선 (시그너스)",
+      "code": 1102370,
+      "slot": "망토"
+    },
+    {
+      "name": "엠퍼러스 퍼번트 케이프",
+      "code": 1102366,
+      "slot": "망토"
+    },
+    {
+      "name": "엠퍼러스 스위프트 케이프",
+      "code": 1102365,
+      "slot": "망토"
+    },
+    {
+      "name": "엠퍼러스 샤프니스 케이프",
+      "code": 1102364,
+      "slot": "망토"
+    },
+    {
+      "name": "엠퍼러스 메모리스 케이프",
+      "code": 1102363,
+      "slot": "망토"
+    },
+    {
+      "name": "엠퍼러스 브레이브 케이프",
+      "code": 1102362,
+      "slot": "망토"
+    },
+    {
+      "name": "크리스마스 눈털뭉치",
+      "code": 1102348,
+      "slot": "망토"
+    },
+    {
+      "name": "엔틱 벨벳 망토",
+      "code": 1102347,
+      "slot": "망토"
+    },
+    {
+      "name": "슈피겔만의 럭셔리 망토",
+      "code": 1102327,
+      "slot": "망토"
+    },
+    {
+      "name": "레전드 메이플 클록",
+      "code": 1102322,
+      "slot": "망토"
+    },
+    {
+      "name": "메이플 3000일 망토",
+      "code": 1102317,
+      "slot": "망토"
+    },
+    {
+      "name": "메르 반 레온 망토",
+      "code": 1102316,
+      "slot": "망토"
+    },
+    {
+      "name": "스카 반 레온 망토",
+      "code": 1102315,
+      "slot": "망토"
+    },
+    {
+      "name": "셀린 반 레온 망토",
+      "code": 1102314,
+      "slot": "망토"
+    },
+    {
+      "name": "헥스 반 레온 망토",
+      "code": 1102313,
+      "slot": "망토"
+    },
+    {
+      "name": "빅터 반 레온 망토",
+      "code": 1102312,
+      "slot": "망토"
+    },
+    {
+      "name": "피어리스 문라이트",
+      "code": 1102311,
+      "slot": "망토"
+    },
+    {
+      "name": "해군 함장의 망토",
+      "code": 1102302,
+      "slot": "망토"
+    },
+    {
+      "name": "리린 팬클럽 풍선",
+      "code": 1102299,
+      "slot": "망토"
+    },
+    {
+      "name": "발레리 팬클럽 풍선",
+      "code": 1102298,
+      "slot": "망토"
+    },
+    {
+      "name": "시그너스 팬클럽 풍선",
+      "code": 1102297,
+      "slot": "망토"
+    },
+    {
+      "name": "메이플 래티넘 클록",
+      "code": 1102295,
+      "slot": "망토"
+    },
+    {
+      "name": "메이플 베릴 클록",
+      "code": 1102294,
+      "slot": "망토"
+    },
+    {
+      "name": "월묘 꼬리",
+      "code": 1102289,
+      "slot": "망토"
+    },
+    {
+      "name": "베파르 블러디케이프",
+      "code": 1102284,
+      "slot": "망토"
+    },
+    {
+      "name": "핼파스 블러디케이프",
+      "code": 1102283,
+      "slot": "망토"
+    },
+    {
+      "name": "이포스 블러디케이프",
+      "code": 1102282,
+      "slot": "망토"
+    },
+    {
+      "name": "엘리고스 블러디케이프",
+      "code": 1102281,
+      "slot": "망토"
+    },
+    {
+      "name": "아가레스 블러디케이프",
+      "code": 1102280,
+      "slot": "망토"
+    },
+    {
+      "name": "샤크투스 스키퍼케이프",
+      "code": 1102279,
+      "slot": "망토"
+    },
+    {
+      "name": "레이븐혼 체이서케이프",
+      "code": 1102278,
+      "slot": "망토"
+    },
+    {
+      "name": "팔콘윙 센티널케이프",
+      "code": 1102277,
+      "slot": "망토"
+    },
+    {
+      "name": "드래곤테일 메이지케이프",
+      "code": 1102276,
+      "slot": "망토"
+    },
+    {
+      "name": "라이온하트 배틀케이프",
+      "code": 1102275,
+      "slot": "망토"
+    },
+    {
+      "name": "코라 반 레온 망토",
+      "code": 1102266,
+      "slot": "망토"
+    },
+    {
+      "name": "녹스 반 레온 망토",
+      "code": 1102265,
+      "slot": "망토"
+    },
+    {
+      "name": "팍스 반 레온 망토",
+      "code": 1102264,
+      "slot": "망토"
+    },
+    {
+      "name": "알마 반 레온 망토",
+      "code": 1102263,
+      "slot": "망토"
+    },
+    {
+      "name": "막스 반 레온 망토",
+      "code": 1102262,
+      "slot": "망토"
+    },
+    {
+      "name": "루디브리엄 케이프",
+      "code": 1102256,
+      "slot": "망토"
+    },
+    {
+      "name": "설빙의 망토",
+      "code": 1102246,
+      "slot": "망토"
+    },
+    {
+      "name": "시리우스 망토",
+      "code": 1102231,
+      "slot": "망토"
+    },
+    {
+      "name": "해군 장교의 망토",
+      "code": 1102226,
+      "slot": "망토"
+    },
+    {
+      "name": "아란의 망토",
+      "code": 1102211,
+      "slot": "망토"
+    },
+    {
+      "name": "요원망토",
+      "code": 1102174,
+      "slot": "망토"
+    },
+    {
+      "name": "타임리스 문라이트",
+      "code": 1102172,
+      "slot": "망토"
+    },
+    {
+      "name": "메이플 망토",
+      "code": 1102166,
+      "slot": "망토"
+    },
+    {
+      "name": "알카드노의 망토",
+      "code": 1102136,
+      "slot": "망토"
+    },
+    {
+      "name": "제뉴미스트의 망토",
+      "code": 1102135,
+      "slot": "망토"
+    },
+    {
+      "name": "온화의 망토",
+      "code": 1102109,
+      "slot": "망토"
+    },
+    {
+      "name": "도깨비 망토",
+      "code": 1102064,
+      "slot": "망토"
+    },
+    {
+      "name": "산소통",
+      "code": 1102061,
+      "slot": "망토"
+    },
+    {
+      "name": "루디브리엄 망토",
+      "code": 1102057,
+      "slot": "망토"
+    },
+    {
+      "name": "이카루스의 망토",
+      "code": 1102054,
+      "slot": "망토"
+    },
+    {
+      "name": "허름한 망토",
+      "code": 1102053,
+      "slot": "망토"
+    },
+    {
+      "name": "빨간색 실리스의 망토",
+      "code": 1102048,
+      "slot": "망토"
+    },
+    {
+      "name": "하늘색 실리스의 망토",
+      "code": 1102047,
+      "slot": "망토"
+    },
+    {
+      "name": "파란색 실리스의 망토",
+      "code": 1102046,
+      "slot": "망토"
+    },
+    {
+      "name": "갈색 모험가의 망토",
+      "code": 1102043,
+      "slot": "망토"
+    },
+    {
+      "name": "보라색 모험가의 망토",
+      "code": 1102042,
+      "slot": "망토"
+    },
+    {
+      "name": "분홍색 모험가의 망토",
+      "code": 1102041,
+      "slot": "망토"
+    },
+    {
+      "name": "노랑색 모험가의 망토",
+      "code": 1102040,
+      "slot": "망토"
+    },
+    {
+      "name": "검은색 자일즈의 망토",
+      "code": 1102035,
+      "slot": "망토"
+    },
+    {
+      "name": "파란색 자일즈의 망토",
+      "code": 1102034,
+      "slot": "망토"
+    },
+    {
+      "name": "빨간색 자일즈의 망토",
+      "code": 1102033,
+      "slot": "망토"
+    },
+    {
+      "name": "자주색 자일즈의 망토",
+      "code": 1102032,
+      "slot": "망토"
+    },
+    {
+      "name": "초록색 자일즈의 망토",
+      "code": 1102031,
+      "slot": "망토"
+    },
+    {
+      "name": "검은색 세라프의 망토",
+      "code": 1102030,
+      "slot": "망토"
+    },
+    {
+      "name": "흰색 세라프의 망토",
+      "code": 1102029,
+      "slot": "망토"
+    },
+    {
+      "name": "빨간색 세라프의 망토",
+      "code": 1102028,
+      "slot": "망토"
+    },
+    {
+      "name": "파란색 세라프의 망토",
+      "code": 1102027,
+      "slot": "망토"
+    },
+    {
+      "name": "초록색 세라프의 망토",
+      "code": 1102026,
+      "slot": "망토"
+    },
+    {
+      "name": "검은색 가이아의 망토",
+      "code": 1102024,
+      "slot": "망토"
+    },
+    {
+      "name": "흰색 가이아의 망토",
+      "code": 1102023,
+      "slot": "망토"
+    },
+    {
+      "name": "빨간색 가이아의 망토",
+      "code": 1102022,
+      "slot": "망토"
+    },
+    {
+      "name": "파란색 가이아의 망토",
+      "code": 1102021,
+      "slot": "망토"
+    },
+    {
+      "name": "검은색 마법의 망토",
+      "code": 1102018,
+      "slot": "망토"
+    },
+    {
+      "name": "흰색 마법의 망토",
+      "code": 1102017,
+      "slot": "망토"
+    },
+    {
+      "name": "빨간색 마법의 망토",
+      "code": 1102016,
+      "slot": "망토"
+    },
+    {
+      "name": "파란색 마법의 망토",
+      "code": 1102015,
+      "slot": "망토"
+    },
+    {
+      "name": "검은색 수호의 망토",
+      "code": 1102014,
+      "slot": "망토"
+    },
+    {
+      "name": "흰색 수호의 망토",
+      "code": 1102013,
+      "slot": "망토"
+    },
+    {
+      "name": "빨간색 수호의 망토",
+      "code": 1102012,
+      "slot": "망토"
+    },
+    {
+      "name": "파란색 수호의 망토",
+      "code": 1102011,
+      "slot": "망토"
+    },
+    {
+      "name": "검은색 모험가의 망토",
+      "code": 1102004,
+      "slot": "망토"
+    },
+    {
+      "name": "흰색 모험가의 망토",
+      "code": 1102003,
+      "slot": "망토"
+    },
+    {
+      "name": "빨간색 모험가의 망토",
+      "code": 1102002,
+      "slot": "망토"
+    },
+    {
+      "name": "파란색 모험가의 망토",
+      "code": 1102001,
+      "slot": "망토"
+    },
+    {
+      "name": "초록색 모험가의 망토",
+      "code": 1102000,
+      "slot": "망토"
+    }
+  ]
+}
