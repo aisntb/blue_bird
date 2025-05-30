@@ -4,12 +4,12 @@ import base64
 import json
 
 # === Spotify App Credentials ===
-CLIENT_ID = '0b5da16ffd1b49c1b10a5766f642ac78'
-CLIENT_SECRET = '51d4eaa6dc694103912d138ed833c71d'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 REDIRECT_URI = 'http://localhost:3000'
 
 # === 사용자로부터 미리 받아서 저장한 refresh_token ===
-REFRESH_TOKEN = 'AQDG0LtoDKRPYcNpdrDlhvK3eFgGcMgNW8TpovN-R2jeNDOFY0a3-QoLTCjV0u1cMqg3ImGKc-c3xgiPKR-cDe3AR6XPsXRUZ08kV2MQXS9L7oJJ_7PHI22cVptnQ0zM_pE'
+REFRESH_TOKEN = '-R2jeNDOFY0a3-QoLTCjV0u1cMqg3ImGKc-c3xgiPKR-cDe3AR6XPsXRUZ08kV2MQXS9L7oJJ_7PHI22cVptnQ0zM_pE'
 
 # === Access Token 상태 ===
 access_token = None
